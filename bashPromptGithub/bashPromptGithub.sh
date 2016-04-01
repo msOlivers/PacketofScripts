@@ -1,3 +1,5 @@
+# Open the .bashrc file
+# Copy the lines below and paste it in your .bashrc file to the end c
 function getGitBranch {
 	git branch --no-color 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
 }
