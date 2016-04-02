@@ -1,6 +1,7 @@
 # PacketofScripts
 Varios script diversos
-
-bashPromptGithub
-	"Bash prompt with colors, git statuses, and git branches."
-![alt tag](https://github.com/msOlivers/PacketofScripts/blob/master/bashPromptGithub/ScreenshotBash.png)
+.
+<h2>bashPromptGithub</h2>
+![bashPromptGithub](https://github.com/msOlivers/PacketofScripts/tree/master/bashPromptGithub)
+<h2>managerNoip</h2>
+![managerNoip](https://github.com/msOlivers/PacketofScripts/tree/master/managerNoip)
