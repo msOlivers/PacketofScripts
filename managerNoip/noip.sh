@@ -40,7 +40,7 @@ case "$1" in
           /usr/local/bin/noip2
           ;;
 
-   stop)  echo "[${Green} ok ${reset}] Stopping down noip2"
+   stop)  echo "[${Green} ok ${reset}] Stopping noip2"
 	  #killproc -TERM /usr/local/bin/noip2
 	  kill `pgrep noip2` # Part kill proc add by msOlivers
           ;;
