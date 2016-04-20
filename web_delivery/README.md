@@ -5,7 +5,7 @@ Edit the file with your web delivery.rc configurations
 in the following lines, Line 5 and Line 6
 
 ## web_deliveryBuild.c
-to compile your exploit to use the exe web_deliveryBuild.c edit as in video
+to compile your exploit to exe use the web_deliveryBuild.c as in video
 
 # Windows
 # Donwload gcc-4.9-win32 in http://sourceforge.net/projects/mingw-w64/files/latest/download
