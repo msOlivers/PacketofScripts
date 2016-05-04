@@ -48,13 +48,14 @@ manifestVersion="1.0">
 RT_MANIFEST = 24
 
 setup(
-	options = {'py2exe': {
-				'bundle_files': 1, 
-				'compressed': True,
-				'optimize': 1,
-				'dll_excludes': ['w9xpopen.exe']
-			}
-		},
+	options = {
+		'py2exe': {
+			'bundle_files': 1, 
+			'compressed': True,
+			'optimize': 1,
+			'dll_excludes': ['w9xpopen.exe']
+		}
+	},
 	windows = [{	
 			'script'	: "main.py",#Nome do arquivo.py para ser compilado
 			'name'		: "pyBotnet", #Defina com suas variáveis
