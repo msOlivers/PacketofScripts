@@ -20,4 +20,4 @@ Varios script diversos
 ![simpleBackdoorPython](https://github.com/msOlivers/PacketofScripts/tree/master/simpleBackdoorPython)
 
 <h2>web Delivery</h2>
-![webDelivery](https://github.com/msOlivers/PacketofScripts/tree/master/simpleBackdoorPython)
+![webDelivery](https://github.com/msOlivers/PacketofScripts/tree/master/web_delivery)
