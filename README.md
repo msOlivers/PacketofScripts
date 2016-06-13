@@ -8,7 +8,10 @@ Varios script diversos
 ![bashPromptGithub](https://github.com/msOlivers/PacketofScripts/tree/master/bashPromptGithub)
 
 <h2 style="text-align:center; display: block; display:inline;">build Python EXE</h2>
-![build_python_exe](https://github.com/msOlivers/PacketofScripts/tree/master/build_python_exe)
+![buildPythonExe](https://github.com/msOlivers/PacketofScripts/tree/master/build_python_exe)
 
 <h2 style="text-align:center; display: block; display:inline;">manager Noip</h2>
 ![managerNoip](https://github.com/msOlivers/PacketofScripts/tree/master/managerNoip)
+
+<h2 style="text-align:center; display: block; display:inline;">metasploit Loade</h2>
+![metasploitLoade](https://github.com/msOlivers/PacketofScripts/tree/master/metasploit-loader)
