@@ -23,4 +23,4 @@ Varios script diversos
 ![webDelivery](https://github.com/msOlivers/PacketofScripts/tree/master/web_delivery)
 
 <h2>my Ip Python</h2>
-![webDelivery](https://github.com/msOlivers/PacketofScripts/tree/master/myIpPython)
+![myIpPython](https://github.com/msOlivers/PacketofScripts/tree/master/myIpPython)
