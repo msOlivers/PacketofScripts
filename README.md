@@ -2,7 +2,7 @@
 Varios script diversos
 
 <h2>Executable C Code</h2>
-![Executable_C_Code](https://github.com/msOlivers/PacketofScripts/tree/master/ExecutableCCode)
+![ExecutableCCode](https://github.com/msOlivers/PacketofScripts/tree/master/ExecutableCCode)
 
 <h2>bash Prompt Github</h2>
 ![bashPromptGithub](https://github.com/msOlivers/PacketofScripts/tree/master/bashPromptGithub)
