@@ -1,0 +1,3 @@
+java -jar signapk.jar certificate.pem key.pk8 your-app.apk  your-signed-app.apk
+
+signapk.jar certificate.pem key.pk8 your-app.apk  your-signed-app.apk
